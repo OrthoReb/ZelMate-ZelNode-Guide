@@ -12,7 +12,7 @@
 ***
 ## Requirements
 1) **ZEL Collateral (10K Basic / 25K Super / 100K BAMF)**
-2) **Controller wallet (ZelMate Swing Wallet)**
+2) **Control wallet (ZelMate Swing Wallet)**
 3) **VPS running Linux Ubuntu 18.04 (benchmark requirements can't be guaranteed for servers that the team hasn't tested)**
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
