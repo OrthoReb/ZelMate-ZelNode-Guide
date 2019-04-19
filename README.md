@@ -29,7 +29,7 @@
 **(Make sure to backup your wallet.dat file for previous ZelCore full nodes or Swing wallets)**
 
 ***Step 1***
-* **Download the current ZelCore wallet based on your OS by clicking [here](https://zelcore.io/#download)**
+* **Download the current ZelMate wallet based on your OS by clicking [here](https://github.com/zelcash/zelcash-swing-wallet/releases)**
 
 ![Example-OS](https://imgur.com/0bIBc4y.png)
 
@@ -40,7 +40,7 @@
 
 ***
 
-***Proceed to the next section while ZelMatee wallet is syncing the blockchain***
+***Proceed to the next section while ZelMate wallet is syncing the blockchain***
 
 ***
 
