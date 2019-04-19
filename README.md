@@ -232,7 +232,7 @@
 ![Example-installing](https://imgur.com/RiJtpsd.png)
 
 * **ZelNode Alias - Can name the ZelNode anything you like (E.g.: trial123Basic1)**
-* **Address (IP:Port Number) - The IP address & port of your ZelNode VPS/server**
+* **Address (IP:Port Number) - The IP address & port (16125) of your ZelNode VPS/server**
 * **ZelNode Key - Swing will auto-populate this field**
 * **ZelNode Output - Swing will automatically populate the dropdown with transactions that match the collateral for an address (E.g. after you send EXACTLY 10,000 Zel to an address for a Basic, etc.). ZelNode Address and ZelNode Amount will auto-populate so you can ensure you chose the correct ZelNode Output for the ZelNode tier you want to set up.**
 * **Copy the ZelNode Key into Notepad for use later when setting up ZelNode VPS/server**
@@ -295,6 +295,8 @@
 
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
+
+**(WAIT AT LEAST 15 MINUTES BEFORE PROCEEDING TO THE NEXT STEP)**
 
 ***Step 9 (ZelMate)*** 
 
