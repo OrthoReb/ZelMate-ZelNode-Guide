@@ -134,7 +134,7 @@
 ***
 
 ***Step 6*** 
-* **Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter)**
+* **Paste the password into the Putty terminal by right clicking (it will not show the password just press enter)**
 
 ![Example-RootPassEnter](https://imgur.com/TqeHV2C.png)
 
