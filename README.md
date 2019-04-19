@@ -40,7 +40,7 @@
 
 ***
 
-***Proceed to the next section while ZelMate wallet is syncing the blockchain***
+***Proceed to the next section while ZelMate wallet is downloading the blockchain***
 
 ***
 
