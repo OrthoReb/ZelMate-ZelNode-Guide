@@ -222,6 +222,8 @@
 
 ***(CLICK 'WALLET' TAB AND SELECT 'BACKUP' FOR WALLET.DAT AND 'EXPORT PRIVATE KEYS' FOR PKS)***
 
+***
+
 ***Step 4 (ZelMate)*** 
 
 * **Select 'New ZelNode' under the 'ZelNodes' tab**
