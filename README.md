@@ -227,7 +227,7 @@
 
 ***Step 3 (ZelMate)*** 
 
-* **Add your ZelNode information to the Create ZelNode popup (Open up a Notepad file, or other note-taking resource)**  
+* **Add your ZelNode information to the Create ZelNode popup and click 'Save' (Open up a Notepad file)**  
 
 ![Example-installing](https://imgur.com/RiJtpsd.png)
 
@@ -236,6 +236,16 @@
 * **ZelNode Key - Swing will auto-populate this field**
 * **ZelNode Output - Swing will automatically populate the dropdown with transactions that match the collateral for an address (E.g. after you send EXACTLY 10,000 Zel to an address for a Basic, etc.). ZelNode Address and ZelNode Amount will auto-populate so you can ensure you chose the correct ZelNode Output for the ZelNode tier you want to set up.**
 * **Copy the ZelNode Key into Notepad for use later when setting up ZelNode VPS/server**
+
+***
+
+***Step 4 (ZelMate)***
+
+* **ZELmate will display a message that your ZelNode was added and the zelnode.conf file and that the wallet needs to be restarted and reindexed if its your first node**
+
+* **Press "Yes" to quit and restart ZELmate. Let the wallet launch and sync completely**
+
+![Example-installing](https://imgur.com/FyXDIDM.png)
 
 ***
 
