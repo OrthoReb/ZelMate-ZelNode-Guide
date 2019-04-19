@@ -28,7 +28,7 @@
 ## Section A: Downloading ZelMate Wallet
 **(Make sure to backup your wallet.dat file for previous ZelCore full nodes or Swing wallets)**
 
-***Step 1 (if necessary)***
+***Step 1***
 * **Download the current ZelCore wallet based on your OS by clicking [here](https://zelcore.io/#download)**
 
 ![Example-OS](https://imgur.com/0bIBc4y.png)
@@ -40,85 +40,7 @@
 
 ***
 
-***Step 3***
-* **Open your ZelCore wallet and choose 'ZelCash' (Click 'My Assets' and add 'ZelCash' if not already displayed in 'Portfolio' screen)**
-
-![Example-OS](https://imgur.com/9WrruJR.png)
-
-***
-
-***Step 4***
-* **'Full Node'**
-
-![Example-OS](https://imgur.com/CXLLEth.png)
-
-***
-
-***Step 5***
-* **'Launch Full Node'**
-
-![Example-OS](https://imgur.com/EvEj6H2.png)
-
-***
-
-***Step 6***
-
-* **'Launch ZelCash' when prompted** 
-
-![Example-OS](https://imgur.com/PbIIEt9.png)
-
-***
-
-***Step 7***
-* **Go into 'Tools' after wallet is 100% synced**
-
-![Example-OS](https://imgur.com/uvqjVZ6.png)
-
-***
-
-***Step 8***
-* **Open ZelNodes Management**
-
-![Example-OS](https://imgur.com/J7TqUmN.png)
-
-***
-
-***Step 9***
-* **Setup ZelNodes**
-
-![Example-OS](https://imgur.com/eGZlrRC.png)
-
-***
-
-***Step 10***
-* **'Backup all addresses' (use a text file to save info, and store in multiple secure locations)**
-
-![Example-OS](https://imgur.com/xdQYGOP.png)
-
-***
-
-***Step 11***
-* **Set automatic logout to 'Never'**
-
-![Example-OS](https://imgur.com/g8niH0e.png)
-
-***
-
-***Step 12***
-* **Continue to the next step after zelcash.conf info is generated**
-
-![Example-OS](https://imgur.com/RTfsbRM.png)
-
-***
-
-***Step 13***
-* **Choose which type of ZelNode you are going to set up**
-
-![Example-OS](https://imgur.com/Q3a4MPV.png)
-
-***
-
-***Proceed to the next section, leave ZelCore wallet open to continue setting up in future steps***
+***Proceed to the next section while ZelMatee wallet is syncing the blockchain***
 
 ***
 
@@ -273,13 +195,13 @@
 
 ***
 
-## Section E : Connecting and Starting ZelNode (ZelCore and VPS)
+## Section E : Connecting and Starting ZelNode (ZelMate and VPS)
 
-***Step 1 (ZelCore)*** 
+***Step 1 (ZelMate)*** 
 
-* **Go back to your ZelCore wallet and enter your VPS IP address**
+* **Go to Own Addresses tab, and select New T (Transparent) Address button to create a new address. **
 
-![Example-installing](https://imgur.com/aPvgKI0.png)
+![Example-installing](https://camo.githubusercontent.com/4cfe66595232ddb2a18195b51570b318ca66b4d6/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3430363535383431373338363437313432342f3534313736313234343830363531323636312f6e65775f616464726573732e504e47.png)
 ***
 
 ***Step 2 (ZelCore)*** 
