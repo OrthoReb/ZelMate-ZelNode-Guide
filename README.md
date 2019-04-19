@@ -199,23 +199,44 @@
 
 ***Step 1 (ZelMate)*** 
 
-* **Go to Own Addresses tab, and select New T (Transparent) Address button to create a new address**
+* **Go to 'Own Addresses' tab, and select 'New T (Transparent) Address' button to create a new address**
 
 ![Example-installing](https://imgur.com/MwQ6sZN.png)
 ***
 
-***Step 2 (ZelCore)*** 
+***Step 2 (ZelMate)*** 
 
-* **Name your ZelNode**
+* **Name new address, `zelNodeBasic1` is just an example (optional)**
 
-![Example-installing](https://imgur.com/YspTi4J.png)
+![Example-installing](https://imgur.com/snfDHth.png)
 ***
 
-***Step 3 (ZelCore)*** 
+***Step 3 (ZelMate)*** 
 
-* **Save your private key that is generated in ZelCore and enter on VPS when prompted**  
+* **Fund that address with EXACT amount in a SINGLE TRANSACTION (10k Basic / 25k Super / 100k BAMF)**
 
-![Example-installing](https://imgur.com/It7FQjW.png)
+![Example-installing](https://imgur.com/mneX1dm.png)
+***
+
+***Step 4 (ZelMatee)*** 
+
+* **Select 'New ZelNode' under the 'ZelNodes' tab**
+
+![Example-installing](https://imgur.com/1fJcBCR.png)
+***
+
+***Step 3 (ZelMate)*** 
+
+* **Add your ZelNode information to the Create ZelNode popup (Open up a Notepad file, or other note-taking resource)**  
+
+![Example-installing](https://imgur.com/RiJtpsd.png)
+
+* **ZelNode Alias - Can name the ZelNode anything you like (E.g.: trial123Basic1)**
+* **Address (IP:Port Number) - The IP address & port of your ZelNode VPS/server**
+* **ZelNode Key - Swing will auto-populate this field**
+* **ZelNode Output - Swing will automatically populate the dropdown with transactions that match the collateral for an address (E.g. after you send EXACTLY 10,000 Zel to an address for a Basic, etc.). ZelNode Address and ZelNode Amount will auto-populate so you can ensure you chose the correct ZelNode Output for the ZelNode tier you want to set up.**
+* **Copy the ZelNode Key into Notepad for use later when setting up ZelNode VPS/server**
+
 ***
 
 ***Step 4 (VPS)***
