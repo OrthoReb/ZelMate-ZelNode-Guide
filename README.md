@@ -201,7 +201,7 @@
 
 * **Go to Own Addresses tab, and select New T (Transparent) Address button to create a new address. **
 
-![Example-installing](https://https://imgur.com/MwQ6sZN.png)
+![Example-installing](https://imgur.com/MwQ6sZN.png)
 ***
 
 ***Step 2 (ZelCore)*** 
