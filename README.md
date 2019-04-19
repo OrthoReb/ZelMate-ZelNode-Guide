@@ -201,7 +201,7 @@
 
 * **Go to Own Addresses tab, and select New T (Transparent) Address button to create a new address. **
 
-![Example-installing](https://camo.githubusercontent.com/4cfe66595232ddb2a18195b51570b318ca66b4d6/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3430363535383431373338363437313432342f3534313736313234343830363531323636312f6e65775f616464726573732e504e47.png)
+![Example-installing](https://https://imgur.com/MwQ6sZN.png)
 ***
 
 ***Step 2 (ZelCore)*** 
