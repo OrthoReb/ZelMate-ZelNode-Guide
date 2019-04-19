@@ -27,6 +27,7 @@
 
 ## Section A: Downloading ZelMate Wallet
 **(Make sure to backup your wallet.dat file for previous ZelCore full nodes or Swing wallets)**
+
 ***Step 1 (if necessary)***
 * **Download the current ZelCore wallet based on your OS by clicking [here](https://zelcore.io/#download)**
 
