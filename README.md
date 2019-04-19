@@ -296,17 +296,12 @@
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
-***Step 9 (ZelCore)*** 
+***Step 9 (ZelMate)*** 
 
-* **Activate your ZelNode**
+* **Once everything is ready to activate, Click the ZelNodes tab, on the left field, find the ZelNode you wish to start, right click, and select Start ZelNode**
 
-![Example-installing](https://imgur.com/xyPmofR.png)
+![Example-installing](https://imgur.com/es0V20X.png)
 
-* **Successfully started will show if everything is done properly ('startzelnode local false' isn't needed)**
-
-![Example-installing](https://imgur.com/GGpcyFA.png)
-
-***(It will take 15 confirmations for your ZelNode to show up in 'MY ZELNODES')***
 ***
 
 ***Step 10***
