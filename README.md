@@ -17,7 +17,7 @@
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
 ## Contents
-* **Section A : Preparing ZelMate Wallet**
+* **Section A : Downloading ZelMate Wallet**
 * **Section B : Creating [DigitalOCean](https://www.digitalocean.com/) VPS**
 * **Section C : Downloading and Installing [Putty](https://www.putty.org/)**
 * **Section D : Connecting VPS and Installing ZelNode Script**
@@ -255,7 +255,7 @@
 
 ***
 
-***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!***
+***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!***
 
 ***
 
