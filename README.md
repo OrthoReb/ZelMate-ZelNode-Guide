@@ -219,9 +219,10 @@
 ***
 
 ***MAKE MULTIPLE BACKUPS OF YOUR WALLET.DAT AND PRIVATE KEYS, DO THIS FOR EVERY NEW ADDRESS THAT IS GENERATED***
+
 ***(CLICK 'WALLET' TAB AND SELECT 'BACKUP' FOR WALLET.DAT AND 'EXPORT PRIVATE KEYS' FOR PKS)***
 
-***Step 4 (ZelMatee)*** 
+***Step 4 (ZelMate)*** 
 
 * **Select 'New ZelNode' under the 'ZelNodes' tab**
 
@@ -236,8 +237,8 @@
 
 * **ZelNode Alias - Can name the ZelNode anything you like (E.g.: trial123Basic1)**
 * **Address (IP:Port Number) - The IP address & port (16125) of your ZelNode VPS/server**
-* **ZelNode Key - Swing will auto-populate this field**
-* **ZelNode Output - Swing will automatically populate the dropdown with transactions that match the collateral for an address (E.g. after you send EXACTLY 10,000 Zel to an address for a Basic, etc.). ZelNode Address and ZelNode Amount will auto-populate so you can ensure you chose the correct ZelNode Output for the ZelNode tier you want to set up.**
+* **ZelNode Key - ZelMate will auto-populate this field**
+* **ZelNode Output - ZelMate will automatically populate the dropdown with transactions that match the collateral for an address (E.g. after you send EXACTLY 10,000 Zel to an address for a Basic, etc.). ZelNode Address and ZelNode Amount will auto-populate so you can ensure you chose the correct ZelNode Output for the ZelNode tier you want to set up.**
 * **Copy the ZelNode Key into Notepad for use later when setting up ZelNode VPS/server**
 
 ***
