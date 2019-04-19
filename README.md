@@ -199,7 +199,7 @@
 
 ***Step 1 (ZelMate)*** 
 
-* **Go to Own Addresses tab, and select New T (Transparent) Address button to create a new address. **
+* **Go to Own Addresses tab, and select New T (Transparent) Address button to create a new address**
 
 ![Example-installing](https://imgur.com/MwQ6sZN.png)
 ***
