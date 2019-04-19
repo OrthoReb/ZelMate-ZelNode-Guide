@@ -218,6 +218,9 @@
 ![Example-installing](https://imgur.com/mneX1dm.png)
 ***
 
+***MAKE MULTIPLE BACKUPS OF YOUR WALLET.DAT AND PRIVATE KEYS, DO THIS FOR EVERY NEW ADDRESS THAT IS GENERATED***
+***(CLICK 'WALLET' TAB AND SELECT 'BACKUP' FOR WALLET.DAT AND 'EXPORT PRIVATE KEYS' FOR PKS)***
+
 ***Step 4 (ZelMatee)*** 
 
 * **Select 'New ZelNode' under the 'ZelNodes' tab**
