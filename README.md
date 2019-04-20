@@ -11,10 +11,10 @@
 **If you require further assistance contact the support team on [Discord](https://discord.gg/szN9yZ) or [Telegram English](http://t.me/zelcash) / [Chinese](http://t.me/zelcashcn) / [Russian](http://t.me/zelcashru)**
 ***
 ## Requirements
-1) **ZEL Collateral (10K Basic / 25K Super / 100K BAMF)**
-2) **Control wallet (ZelMate Swing Wallet)**
+1) **ZEL collateral (10K Basic / 25K Super / 100K BAMF)**
+2) **Control wallet (ZelMate)**
 3) **VPS running Linux Ubuntu 18.04 (benchmark requirements can't be guaranteed for servers the team hasn't tested)**
-4) **SSH client such as [Putty](https://www.putty.org/)**
+4) **SSH client such as [Putty](https://www.putty.org/) or [MobaXterm](https://mobaxterm.mobatek.net/download.html)**
 ***
 ## Contents
 * **Section A : Downloading ZelMate Wallet**
