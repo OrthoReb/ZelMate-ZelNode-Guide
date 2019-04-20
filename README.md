@@ -38,6 +38,8 @@
 ***Step 2***
 * **First time users of a ZEL full node need to download the bootstrap file to decrease sync time by clicking [here](https://github.com/zelcash/zelcash/wiki/Bootstrap-for-ZelNodes)**
 
+![Example-OS](https://imgur.com/wYChNI6.png)
+
 ***
 
 ***Proceed to the next section while ZelMate wallet is downloading the blockchain***
