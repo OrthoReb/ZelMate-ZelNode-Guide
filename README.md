@@ -233,7 +233,7 @@
 ![Example-installing](https://imgur.com/1fJcBCR.png)
 ***
 
-***Step 3 (ZelMate)*** 
+***Step 5 (ZelMate)*** 
 
 * **Add your ZelNode information to the Create ZelNode popup and click 'Save' (Open up a Notepad file)**  
 
@@ -247,17 +247,16 @@
 
 ***
 
-***Step 4 (ZelMate)***
+***Step 6 (ZelMate)***
 
 * **ZELmate will display a message that your ZelNode was added and the zelnode.conf file and that the wallet needs to be restarted and reindexed if its your first node**
 
 * **Press "Yes" to quit and restart ZELmate. Let the wallet launch and sync completely**
 
-![Example-installing](https://imgur.com/FyXDIDM.png)
 
 ***
 
-***Step 4 (VPS)***
+***Step 7 (VPS)***
 
 * **Log back into your VPS with the new username and password from Section D: Steps 9 and 10**
 
@@ -267,7 +266,7 @@
 
 ***
 
-***Step 5 (VPS)***
+***Step 8 (VPS)***
 
 * **Paste the code below into the Putty terminal then press enter**
 
@@ -279,14 +278,14 @@
 
 ***
 
-***Step 6  (VPS)***
+***Step 9  (VPS)***
 
 * **Confirm IP and enter private key from Step 3**
 
 ![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
 ***
 
-***Step 7***
+***Step 10***
 
 * **Go to the ZelCash block explorer** 
 
@@ -295,7 +294,7 @@
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
 
-***Step 8 (VPS)***
+***Step 11 (VPS)***
 
 * **Press any key, then CTRL-C when the blocks match explorer in Step 6**
 
@@ -306,7 +305,7 @@
 
 **(WAIT AT LEAST 15 MINUTES AFTER THE THE BLOCKCHAIN IS DONE SYNCING BEFORE PROCEEDING TO THE NEXT STEP)**
 
-***Step 9 (ZelMate)*** 
+***Step 12 (ZelMate)*** 
 
 * **Once everything is ready to activate, Click the ZelNodes tab, on the left field, find the ZelNode you wish to start, right click, and select Start ZelNode**
 
@@ -314,7 +313,7 @@
 
 ***
 
-***Step 10***
+***Step 13***
 
 * **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4' (If VPS does not show successfully started, wait 5 minutes and run the command again. Repeat if necesary)**
 
