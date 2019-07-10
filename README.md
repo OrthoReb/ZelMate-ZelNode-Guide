@@ -29,6 +29,7 @@
 ***(Make sure to backup your wallet.dat file for previous ZelCore full nodes or Swing wallets)***
 
 ***Step 1***
+
 ***Download the current ZelMate wallet based on your OS by clicking [here](https://github.com/zelcash/zelcash-swing-wallet/releases)***
 
 ![Example-OS](https://imgur.com/0bIBc4y.png)
@@ -36,6 +37,7 @@
 ***
 
 ***Step 2***
+
 ***First time users of a ZEL full node need to download the bootstrap file to decrease sync time by clicking [here](https://github.com/zelcash/zelcash/wiki/Bootstrap-for-ZelNodes)***
 
 ![Example-OS](https://imgur.com/wYChNI6.png)
@@ -48,11 +50,13 @@
 
 ## Section B: Creating DigitalOcean VPS
 ***Step 1***
+
 ***Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)***
 
 ***
 
 ***Step 2***
+
 ***After you have your account setup go [here](https://cloud.digitalocean.com/droplets?i=8fe2ca&preserveScrollPosition=false) to create your ZelNode droplet***
 
 ![Example-OS](https://imgur.com/WYFdC1j.png)
@@ -60,12 +64,14 @@
 ***
 
 ***Step 3***
+
 ***Choose server type: 'Ubuntu 18.04'***
 ![Example-OS](https://imgur.com/4hM9ugU.png)
 
 ***
 
 ***Step 4***
+
 ***Choose Droplet (Basic/Super/BAMF)***
 
 ![Example-OS](https://imgur.com/sVaawzt.png) ![Example-OS](https://imgur.com/1hAuT2T.png) ![Example-OS](https://imgur.com/Yc3Wm7q.png)
@@ -90,11 +96,13 @@
 ## Section C: Downloading and Installing Putty
 
 ***Step 1***
+
 ***Download Putty [here](https://www.putty.org/)***
 
 ***
 
 ***Step 2***
+
 ***Select the correct installer depending upon your operating system, and follow the install instructions*** 
 
 ![Example-Putty Installer](https://imgur.com/U7eaNSh.png)
@@ -104,12 +112,14 @@
 ## Section D: Connecting VPS and Installing ZelNode Script
 
 ***Step 1***
+
 ***Copy your VPS IP (located within Droplets tab)***
 ![Example-DO](https://imgur.com/8YWMNxW.png)
 
 ***
 
 ***Step 2***
+
 ***Open the Putty terminal and fill in the "Host Name" box with the IP address of your VPS***
 
 ![Example-PuttyLogin](https://imgur.com/gMkd6fs.png)
@@ -117,6 +127,7 @@
 ***
 
 ***Step 3***
+
 ***Once you hit 'Open' a security alert will open up (click yes)***
 
 ![Example-RootPassEnter](https://imgur.com/z0N2AMT.png)
@@ -124,6 +135,7 @@
 ***
 
 ***Step 4***
+
 ***Type "root" as the login/username***
 
 ![Example-Root](https://imgur.com/DumQVJ5.png)
@@ -131,11 +143,13 @@
 ***
 
 ***Step 5***
+
 ***Copy the root password that DigitalOcean emailed you***
 
 ***
 
 ***Step 6*** 
+
 ***Paste the password into the Putty terminal by right clicking (it will not show the password just press enter)***
 
 ![Example-RootPassEnter](https://imgur.com/TqeHV2C.png)
@@ -143,6 +157,7 @@
 ***
 
 ***Step 7*** 
+
 ***Enter password for root (UNIX password same as Step 5)***
 
 ***Make new password and confirm***
@@ -152,7 +167,8 @@
 ***
 
 ***Step 8*** 
-* **Update VPS with the following 2 commands**
+
+***Update VPS with the following 2 commands***
 
 ***`sudo apt-get update`***
 
@@ -161,6 +177,7 @@
 ***
 
 ***Step 9***
+
 ***Adduser to secure your VPS, by adding a new username so you aren't running everything as root***  
 
 ***Run the command below and use a username that you want associated with this server ('whodatbamf1' is an example, you need to generate your own username)*** 
@@ -240,9 +257,13 @@
 ![Example-installing](https://imgur.com/RiJtpsd.png)
 
 ***ZelNode Alias - Can name the ZelNode anything you like (E.g.: trial123Basic1)***
+
 ***Address (IP:Port Number) - The IP address & port (16125) of your ZelNode VPS/server***
+
 ***ZelNode Key - ZelMate will auto-populate this field***
+
 ***ZelNode Output - ZelMate will automatically populate the dropdown with transactions that match the collateral for an address (E.g. after you send EXACTLY 10,000 Zel to an address for a Basic, etc.). ZelNode Address and ZelNode Amount will auto-populate so you can ensure you chose the correct ZelNode Output for the ZelNode tier you want to set up.***
+
 ***Copy the ZelNode Key into Notepad for use later when setting up ZelNode VPS/server***
 
 ***
