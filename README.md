@@ -32,7 +32,7 @@
 
 ***Download the current ZelMate wallet based on your OS by clicking [here](https://github.com/zelcash/zelcash-swing-wallet/releases)***
 
-![Example-OS](https://imgur.com/0bIBc4y.png)
+![Example-OS](https://imgur.com/sdfZCBB.png)
 
 ***
 
