@@ -206,11 +206,9 @@
 
 ***Step 12***
 
-***Reboot server with the following command***
+***Switch to new user that you created in Step 9***
 
-***`sudo reboot -n`***
-
-***Close Putty terminal while server reboots***
+***`su - YOURUSERNAME`***
 
 ***
 
